@@ -1,0 +1,17 @@
+{
+    "cakesK": [
+        {
+            "name": "Encanto",
+            "image": "images/img6.jpg",
+            "link": "InfoProductos/Encanto.html",
+            "price": 99.00
+        },
+        {
+            "name": "Football",
+            "image": "images/img7.jpg",
+            "link": "InfoProductos/Football.html",
+            "price": 60.00
+        }
+      
+    ]
+}

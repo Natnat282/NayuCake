@@ -1,0 +1,40 @@
+{
+    "cakes": [
+        {
+            "name": "Cake Frutos",
+            "image": "images/img5.jpg",
+            "link": "InfoProductos/XS1.html",
+            "price": 50.00
+        },
+        {
+            "name": "Carlota",
+            "image": "images/img4.jpg",
+            "link": "InfoProductos/XS2.html",
+            "price": 50.00
+        },
+        {
+            "name": "Sample Headline",
+            "image": "images/img1.jpg",
+            "link": "InfoProductos/XS3.html",
+            "price": 50.00
+        },
+        {
+            "name": "Cake Frutos",
+            "image": "images/img5.jpg",
+            "link": "InfoProductos/XS1.html",
+            "price": 50.00
+        },
+        {
+            "name": "Carlota",
+            "image": "images/img4.jpg",
+            "link": "InfoProductos/XS2.html",
+            "price": 50.00
+        },
+        {
+            "name": "Sample Headline",
+            "image": "images/img1.jpg",
+            "link": "InfoProductos/XS3.html",
+            "price": 50.00
+        }
+    ]
+}

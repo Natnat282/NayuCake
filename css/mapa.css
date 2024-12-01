@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap');
+.u-section-1 .u-sheet-1 {
+    min-height: 400px;
+   
+  }
+
+
+.jumbotron{
+    background-color: transparent;
+    margin: 0;
+    padding: 10px;
+    margin-top: 5rem;
+}
+
+.jumbotron h2{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #92b684;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron h2,
+.jumbotron p{
+    text-align: center;
+}
+
+.jumbotron p{
+    font-size: 1rem;
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+#googleMap{
+    width: 80%;
+    height: 400px;
+    margin: 20px auto;
+}
+
+/*output box*/
+#output {
+    text-align: center;
+    font-size: 1.5rem;  
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  #mode {
+    color: black;
+  }
+
+  .alert-info {
+    background: #92b684;
+    color: #fff;
+    border-radius: 5px;
+}
+
+#from, #to {
+    height: 45px;
+    width: 50%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 15px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    border-bottom-width: 2px;
+   margin-left: 100px;
+   font-family: 'Open Sans', sans-serif;
+}
+
+label{
+    margin-left: 100px;
+    color: #92b684;
+}
+button{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+
+@media(max-width: 459px) {
+    #from, #to {
+        width: 100%;
+        margin: 0;
+    } 
+    label{
+        margin: 0;
+    }
+    button{
+        margin: 0;
+    }
+    #googleMap{
+        width: 100%;
+      }
+}
+
+@media(max-width: 800px) {
+    #from, #to {
+        width: 100%;
+        margin: 0;
+        font-size: 1rem;
+    } 
+    label{
+        margin: 0;
+    }
+    button{
+        margin: 0;
+    }
+
+    #output {
+        text-align: center;
+        font-size: 1rem;  
+        width: 100%;
+        margin: 20px auto;
+      }
+
+      #googleMap{
+        width: 100%;
+      }
+}
+
+
+#targetLang {
+ 
+    color: #92b684; 
+    border: 1px solid #fff;
+   border-radius: 10px;
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    background: white;
+  }
+  
+  
+  #targetLang option {
+    background-color: white; 
+      color: #92b684;
+  }
+  
+  
+  #targetLangMobile{
+  color: #fff; 
+  margin: 0;
+   border-radius: 10px;
+   border: 1px solid rgba(146, 181, 133, 0.195);
+    font-size: 1.5rem;
+    cursor: pointer;
+    background: rgba(146, 181, 133, 0.195);
+  }
+  
+  
+  
+  
+  
+  
+
+
+

@@ -1,0 +1,18 @@
+{
+    "cakesP": [
+        {
+            "name": "Cheesecake",
+            "image": "images/img8.jpg",
+            "link": "InfoProductos/Cheesecake.html",
+            "price": 50.00
+        },
+        {
+            "name": "Caja Rollos de Canela de 4 piezas",
+            "image": "images/img10.jpg",
+            "link": "InfoProductos/Rollos-de-Canela.html",
+            "price": 13
+        }
+      
+      
+    ]
+}
